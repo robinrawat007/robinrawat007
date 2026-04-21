@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Robin%20Singh%20Rawat&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=🤖%20AI%20Builder%20%7C%20Agent%20Architect%20%7C%20Full%20Stack%20Dev&descAlignY=60&descSize=17&descColor=a78bfa)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+work+⚡;n8n+%7C+MCP+%7C+RAG+%7C+Multi-Agent+Systems+🧠;Next.js+%2B+Supabase+%2B+TypeScript+🔧;Local+LLMs+with+Ollama+🦙;Discipline+over+motivation.+Always.+🎯" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+work;n8n+%7C+MCP+%7C+RAG+%7C+Multi-Agent+Systems;Next.js+%2B+Supabase+%2B+TypeScript;Local+LLMs+with+Ollama;Discipline+over+motivation.+Always." alt="Typing SVG" />
 </a>
 
 <br/>
