@@ -1,51 +1,84 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:3b82f6&height=200&section=header&text=Robin%20Singh%20Rawat&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Builder%20%7C%20Full%20Stack%20Dev%20%7C%20Agent%20Architect&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Robin%20Singh%20Rawat&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=🤖%20AI%20Builder%20%7C%20Agent%20Architect%20%7C%20Full%20Stack%20Dev&descAlignY=60&descSize=17&descColor=a78bfa)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Building+AI+systems+that+actually+work.;n8n+%7C+MCP+%7C+RAG+%7C+Agents;Full+Stack+%2B+AI+Automation+Engineer;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+work+⚡;n8n+%7C+MCP+%7C+RAG+%7C+Multi-Agent+Systems+🧠;Next.js+%2B+Supabase+%2B+TypeScript+🔧;Local+LLMs+with+Ollama+🦙;Discipline+over+motivation.+Always.+🎯" alt="Typing SVG" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=robinrawat007&color=6e40c9&style=flat-square)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=robinrawat007&color=a78bfa&style=flat-square&label=Profile+Views)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/robinrawat007?color=a78bfa&style=flat-square&logo=github&label=Followers)
 
 </div>
 
 ---
 
-### 👋 About Me
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I'm a **Full Stack Developer & AI Systems Architect** based in India.  
-I build AI-powered applications, automation workflows, and agent systems — end to end.
+### 🧬 About Me
 
-- 🤖 Designing **multi-agent systems**, MCP servers & RAG pipelines
-- ⚡ Automating complex workflows with **n8n**
-- 🛠️ Building products with **Next.js + Supabase**
-- 📡 Running local LLMs with **Ollama**
-- 🎯 I pick the best tool for the job — not the most familiar one
+```typescript
+const robin = {
+  name: "Robin Singh Rawat",
+  role: "AI Builder & Full Stack Dev",
+  location: "India 🇮🇳",
+  focus: ["AI Agents", "Automation", "Products"],
+  currentlyBuilding: "AI systems & MCP servers",
+  philosophy: "High-value systems over quick hacks",
+  mantra: "Discipline > Motivation"
+};
+```
 
-> *"Discipline over motivation. High-value systems over quick hacks."*
+- 🚀 Shipping full products with **Next.js + Supabase**  
+- 🤖 Architecting **multi-agent AI systems** & RAG pipelines  
+- ⚡ Building automation workflows with **n8n**  
+- 🔌 Building & integrating **MCP servers**  
+- 📡 Always at the edge of what's possible with AI  
+
+<br clear="right"/>
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
-#### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-#### Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+#### ⚡ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind&theme=dark" />
+</p>
 
-#### AI & Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+#### 🗄️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,vercel,postgres&theme=dark" />
+</p>
 
-#### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+#### 🤖 AI & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-1a1a2e?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_Pipeline-6d28d9?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP_Server-0ea5e9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
+
+#### 🔧 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
@@ -53,30 +86,70 @@ I build AI-powered applications, automation workflows, and agent systems — end
 
 <div align="center">
 
-![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robinrawat007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=3b82f6)
+<img src="https://github-readme-stats.vercel.app/api?username=robinrawat007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinrawat007&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinrawat007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9)
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robinrawat007&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=3b82f6&currStreakLabel=6e40c9)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🔗 Connect
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/robinrawat37)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robinrawat1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/robinrawat01)
+[![GitHub Streak](https://streak-stats.demolab.com?user=robinrawat007&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&stroke=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+### 🏆 Trophies
+
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:6e40c9&height=100&section=footer)
+[![trophy](https://github-profile-trophy.vercel.app/?username=robinrawat007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Robin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robinrawat007&bg_color=0d1117&color=a78bfa&line=38bdf8&point=ffffff&area=true&area_color=a78bfa&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+> ⚠️ To enable the snake animation, create `.github/workflows/snake.yml` in your profile repo (see below)
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robinrawat007/robinrawat007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robinrawat007/robinrawat007/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/robinrawat007/robinrawat007/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+### 🔗 Let's Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/robinrawat37)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robinrawat1)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/robinrawat01)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best in the room doesn't announce it. They just show up and build."*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 </div>
