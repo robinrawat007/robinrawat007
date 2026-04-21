@@ -120,8 +120,6 @@ const robin = {
 
 ### 🐍 Contribution Snake
 
-> ⚠️ To enable the snake animation, create `.github/workflows/snake.yml` in your profile repo (see below)
-
 <div align="center">
 
 <picture>
