@@ -86,9 +86,9 @@ const robin = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=robinrawat007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&count_private=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats-eosin-eta-66.vercel.app/api?username=robinrawat007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&count_private=true&rank_icon=github" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinrawat007&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="180"/>
+<img src="https://github-readme-stats-eosin-eta-66.vercel.app/api/top-langs/?username=robinrawat007&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="180"/>
 
 <br/><br/>
 
