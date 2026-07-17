@@ -82,17 +82,16 @@ const robin = {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats-eosin-eta-66.vercel.app/api?username=robinrawat007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&count_private=true&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-eosin-eta-66.vercel.app/api/top-langs/?username=robinrawat007&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="180"/>
+<img src="https://github-readme-stats-eosin-eta-66.vercel.app/api?username=robinrawat007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&count_private=true&rank_icon=github" height="185"/>
+<img src="https://github-readme-stats-eosin-eta-66.vercel.app/api/top-langs/?username=robinrawat007&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="185"/>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=robinrawat007&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&stroke=a78bfa" width="100%"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robinrawat007&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&stroke=a78bfa)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robinrawat007&theme=react-dark&bg_color=0d1117&color=a78bfa&line=38bdf8&point=ffffff&area=true&area_color=a78bfa&hide_border=true" width="100%"/>
 
 </div>
 
@@ -105,7 +104,7 @@ const robin = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robinrawat007/robinrawat007/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robinrawat007/robinrawat007/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/robinrawat007/robinrawat007/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/robinrawat007/robinrawat007/output/github-snake.svg" width="100%"/>
 </picture>
 
 </div>
