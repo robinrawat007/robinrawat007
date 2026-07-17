@@ -82,16 +82,12 @@ const robin = {
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats-eosin-eta-66.vercel.app/api?username=robinrawat007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&count_private=true&rank_icon=github" height="185"/>
 <img src="https://github-readme-stats-eosin-eta-66.vercel.app/api/top-langs/?username=robinrawat007&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="185"/>
-
-<img src="https://streak-stats.demolab.com?user=robinrawat007&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&stroke=a78bfa" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robinrawat007&theme=react-dark&bg_color=0d1117&color=a78bfa&line=38bdf8&point=ffffff&area=true&area_color=a78bfa&hide_border=true" width="100%"/>
 
 </div>
 
